@@ -5,4 +5,4 @@ Implemented services:
 "Geocoder" to convert addresses to latitude and longitude,
 "Polygon" to highlight said areas.
 "computeArea" to calculate polygon's area.
-Must add: Your Private Google Maps API key in "<YOURGOOGLEAPIKEY>".
+Must add: Your Private Google Maps API key in "< YOURGOOGLEAPIKEY >".
