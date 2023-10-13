@@ -14,3 +14,5 @@ Practical Application: Providing potential customers with a quote for the instal
 4 ● Area Calculation: After the user has defined the desired area on the map, they can calculate it by clicking a button. 
 
 To works, the code requires a private Google Maps API key, which should be inserted into the code, replacing "<YOUR-GOOGLE-API-KEY>".
+
+![dsa](https://github.com/alessiopelusi/GoogleMapsAreasCalculator/assets/130958426/bf28a075-b9b4-4696-b214-f692192633c2)
