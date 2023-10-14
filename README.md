@@ -1,4 +1,4 @@
-# Google MapsAreas Calculator
+# Google Maps Area Calculator
 This Javascript script leverages Google maps APIs to create an interactive map enabling the user to calculate the area of a building.
 
 Practical Application: Providing potential customers with a quote for the installation of photovoltaic systems based on the area of their structure.
